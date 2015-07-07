@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1434588965 source:/home/clint/workspace/chapter3/lab3-3.cpp
+	"std_lib_facilities.h"
+
+1434331979 /home/clint/workspace/chapter3/std_lib_facilities.h
+	<iostream>
+	<iomanip>
+	<fstream>
+	<sstream>
+	<cmath>
+	<cstdlib>
+	<string>
+	<list>
+	<forward_list>
+	<vector>
+	<unordered_map>
+	<algorithm>
+	<array>
+	<regex>
+	<random>
+	<stdexcept>
+
+1434405023 source:/home/clint/workspace/chapter3/main.cpp
+	"std_lib_facilities.h"
+
+1434589694 source:/home/clint/workspace/chapter3/lab3-3_v2.cpp
+	"std_lib_facilities.h"
+
+1434594980 source:/home/clint/workspace/chapter3/lab3_4.cpp
+	"std_lib_facilities.h"
+
+1434596146 source:/home/clint/workspace/chapter3/readName.cpp
+	"std_lib_facilities.h"
+
+1434596921 source:/home/clint/workspace/chapter3/read_and_compare.cpp
+	"std_lib_facilities.h"
+
+1434641714 source:/home/clint/workspace/chapter3/repeat_words.cpp
+	"std_lib_facilities.h"
+
+1434643488 source:/home/clint/workspace/chapter3/repeat_numbers.cpp
+	"std_lib_facilities.h"
+
+1434653578 source:/home/clint/workspace/chapter3/lab3-6-1.cpp
+	"std_lib_facilities.h"
+
